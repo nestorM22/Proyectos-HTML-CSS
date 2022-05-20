@@ -1,0 +1,3 @@
+Atajo de teclado de VS code
+alt + z = codigo se adapta al tamaño de la ventana.
+
